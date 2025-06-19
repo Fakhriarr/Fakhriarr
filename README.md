@@ -1,6 +1,9 @@
-# Muhammad Fakhri Ar Rouf
+# Muhammad Fakhri Ar Rouf 🗿
 ### Laravel | Machine Learning
 
+I am an Informatics Engineering student with over two years of experience in web development, having completed more than 10 projects. My expertise includes HTML, CSS, JavaScript, PHP, and Laravel, with a strong focus on creating integrated websites that prioritize excellent UI/UX design. Additionally, I have ineterest and experience in Graphic Design and UI/UX Design. With a strong problem-solving ability, I efficiently manage both individual tasks and team collaborations, and am proficient in version control using Git and team coordination via GitHub.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fakhriarr&theme=dark)](https://git.io/streak-stats)
 <!--
 **Fakhriarr/Fakhriarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
