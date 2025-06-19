@@ -12,7 +12,6 @@ As a final-year Informatics student, I possess a strong passion for **web develo
 ---
 
 ### GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fakhriarr&theme=tokyonight)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fakhriarr&show_icons=true&theme=dark&hide_border=true)](https://github.com/Fakhriarr)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhriarr&layout=compact&theme=dark&hide_border=true)
 
