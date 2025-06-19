@@ -47,9 +47,10 @@ Here are some of the technologies and tools I commonly work with:
 
 Check out one of my highlighted projects:
 
+[![Solo Book Store](https://github-readme-stats.vercel.app/api/pin/?username=Fakhriarr&repo=solo-book-store&theme=dark&hide_border=true)](https://github.com/Fakhriarr/solo-book-store)
+
 * **Solo Book Store:** A project showcasing my web development skills.
-    [![Solo Book Store](https://github-readme-stats.vercel.app/api/pin/?username=Fakhriarr&repo=solo-book-store&theme=dark&hide_border=true)](https://github.com/Fakhriarr/solo-book-store)
-    *(Note: The image above is a dynamic GitHub project card. If it doesn't render, it might be due to API limits or specific browser settings.)*
+*(Note: The image above is a dynamic GitHub project card. If it doesn't render, it might be due to API limits or specific browser settings.)*
 
 ---
 
