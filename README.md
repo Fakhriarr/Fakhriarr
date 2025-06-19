@@ -26,7 +26,7 @@ Here are some of the technologies and tools I commonly work with:
 #### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c++" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,ts" alt="Languages" />
 </p>
 
 #### Frameworks
