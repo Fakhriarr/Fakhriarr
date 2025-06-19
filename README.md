@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Fakhri Ar Rouf!</h1>
+<h1 align="center">Hi 👋! I'm Muhammad Fakhri Ar Rouf!</h1>
 <p align="center">
   A passionate Informatics student based in Yogyakarta, Indonesia 🇮🇩
 </p>
@@ -26,19 +26,19 @@ Here are some of the technologies and tools I commonly work with:
 #### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c++" alt="Languages" />
 </p>
 
 #### Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,vue" alt="Frameworks" />
 </p>
 
 #### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgresql,sqlite,vscode,git,github,figma,ps,canva" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vscode,git,github,figma,ps,canva" alt="Tools" />
 </p>
 
 ---
