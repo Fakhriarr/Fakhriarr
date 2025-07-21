@@ -26,19 +26,19 @@ Here are some of the technologies and tools I commonly work with:
 #### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,r,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,r" alt="Languages" />
 </p>
 
 #### Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,vue,express" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,vue" alt="Frameworks" />
 </p>
 
 #### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vscode,git,github,figma,ps,discord" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,vscode,git,github,figma,ps,discord" alt="Tools" />
 </p>
 
 ---
